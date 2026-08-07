@@ -1,3 +1,8 @@
+//💻 আজকের Practice Problems (৪টা)
+// 1.একটা int variable বানাও, তার address আর ভ্যালু দুটোই print করো (pointer ব্যবহার করে)
+// 4. একটা pointer দিয়ে একটা variable-এর ভ্যালু বদলাও (dereference করে) — বদলানোর আগে আর পরে দুটোই print করো
+// 3.  Pointer ব্যবহার করে একটা swap ফাংশন লেখো (উপরের উদাহরণ দেখে না লিখে, নিজে চেষ্টা করো)
+// 2. একটা array আর তার প্রথম element-এর pointer নিয়ে experiment করো:
 
 #include <iostream>
 #include <string>
